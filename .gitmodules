@@ -1,0 +1,6 @@
+[submodule "toshiba-task-dashboard-frontend"]
+	path = toshiba-task-dashboard-frontend
+	url = https://github.com/the-halfbloodprince/toshiba-task-dashboard-frontend
+[submodule "toshiba-task-dashboard-backend"]
+	path = toshiba-task-dashboard-backend
+	url = https://github.com/the-halfbloodprince/toshiba-task-dashboard-backend

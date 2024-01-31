@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "toshiba-task-dashboard-frontend"
+		},
+		{
+			"path": "toshiba-task-dashboard-backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
