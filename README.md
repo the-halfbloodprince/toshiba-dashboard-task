@@ -50,8 +50,9 @@ Here are a few screenshots of the project:
   - ![](screenshots/msedge_bjcWfkiBBk.png)
   - ![](screenshots/msedge_Gxsqs1Uhyu.png)
 
-- Responsiveness
+- Responsiveness:
   due to time limitations and workload, I only went with one additional screen size.
+  - ![](screenshots/chrome_ztxoVwsxth.png)
   - ![](screenshots/msedge_xcg43qlLbA.png)
   - ![](screenshots/sidebar_responsive.png)
 
